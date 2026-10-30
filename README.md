@@ -83,12 +83,11 @@ A document question-answering project that retrieves relevant information from u
 
 | Area | Technologies |
 |---|---|
-| Programming | Python, Java, JavaScript |
-| Frontend | React, React Native, TypeScript, HTML, CSS |
-| Backend | FastAPI, Node.js, Express, REST APIs |
+| Programming | Python, Java|
+| Backend | FastAPI, REST APIs |
 | AI & ML | LLMs, RAG, Ollama, Hugging Face, FAISS |
 | Cloud | AWS, Lambda, API Gateway, DynamoDB, S3, IAM, CloudWatch, SSM |
-| Databases | PostgreSQL, DynamoDB, Supabase, Redis |
+| Databases | DynamoDB, Supabase |
 | Tools | Git, GitHub, Linux/Unix |
 
 ---
